@@ -1,0 +1,366 @@
+startovni;trat;jmeno;prijmeni;rok;pohlavi;klub;kategorie;poradi_trat;poradi_kategorie;poradi_pohlavi;oficialni cas
+1198;10 km;Michal;Procházka;1982;M;Perňa System;M 40 – 59;1;1;1;00:35:49
+1343;10 km;Tadeáš;Rulík;1997;M;;M do 39;2;1;2;00:36:18
+1120;10 km;Vojtěch;Krobot;1991;M;Praha 10;M do 39;3;2;3;00:37:35
+1351;10 km;Petr;Chlubna;1993;M;;M do 39;4;3;4;00:37:43
+1334;10 km;Zdeněk;Chaloupka;1988;M;;M do 39;5;4;5;00:37:49
+1208;10 km;Matej;Režný;1977;M;;M 40 – 59;6;2;6;00:38:27
+1400;10 km;Jan;Zýka;1983;M;;M 40 – 59;7;3;7;00:38:48
+1033;10 km;Petr;Doležal;1981;M;;M 40 – 59;8;4;8;00:39:07
+1136;10 km;Petr;Liebezeit;1993;M;Řevničov;M do 39;9;5;9;00:39:13
+1076;10 km;Petr;Hron;1990;M;Žalmanov;M do 39;10;6;10;00:39:59
+1170;10 km;Dominik;Orság;1991;M;HoWaDa;M do 39;11;7;11;00:40:03
+1106;10 km;Ľubomír;Klužák;1986;M;Roztoky;M do 39;12;8;12;00:40:44
+1357;10 km;Petr;Girard;1987;M;;M do 39;13;9;13;00:41:05
+1214;10 km;Bruno;Sandner;1998;M;Praha 6;M do 39;14;10;14;00:42:07
+1324;10 km;Gregory;Rutenik;1990;M;;M do 39;15;11;15;00:42:14
+1250;10 km;Jan;Šubrt;1997;M;Sokol Horní Sytová;M do 39;16;12;16;00:42:25
+1165;10 km;Jan;Novotný;1978;M;TTT;M 40 – 59;17;5;17;00:42:47
+1105;10 km;Adam;Klocperk;1989;M;MY CLINIC;M do 39;18;13;18;00:42:59
+1336;10 km;Vilém;Andrle;1998;M;;M do 39;19;14;19;00:43:13
+1043;10 km;Petr;Eliáš;1986;M;Praha;M do 39;20;15;20;00:43:14
+1263;10 km;Daniela;Vaňušová;1985;F;Praha;Z 35 – 54;21;1;1;00:43:23
+1332;10 km;Petr;Milner;2010;M;;junioři;22;1;21;00:43:24
+1154;10 km;Pavel;Moravec;1980;M;STS Chvojkovice-Brod;M 40 – 59;23;6;22;00:43:33
+1057;10 km;Jan;Hartman;2000;M;Praha;M do 39;24;16;23;00:43:34
+1039;10 km;David;Dvořák;1994;M;;M do 39;25;17;24;00:43:37
+1309;10 km;Petr;Vizina;1967;M;;M 40 – 59;26;7;25;00:43:41
+1323;10 km;Lukáš;Vydra;1970;M;;M 40 – 59;27;8;26;00:43:47
+1269;10 km;Tomas;Vesely;2000;M;;M do 39;28;18;27;00:43:56
+1005;10 km;Kryštof;Babinský;2010;M;Byxelkrok;junioři;29;2;28;00:44:11
+1364;10 km;Miroslav;Malina;1974;M;;M 40 – 59;30;9;29;00:44:14
+1213;10 km;Martina;Sádlová;1991;F;Praha;Z do 34;31;1;2;00:44:18
+1140;10 km;Daniel;Mach;1995;M;;M do 39;32;19;30;00:44:24
+1084;10 km;Tomáš;Ježek;1994;M;Ledce;M do 39;33;20;31;00:44:30
+1142;10 km;Štěpán;Materna;1978;M;ScioŠkola Praha Bubeneč;M 40 – 59;34;10;32;00:44:31
+1168;10 km;Rudolf;Ondříček;2004;M;Praha;M do 39;35;21;33;00:44:37
+1342;10 km;Michala;Spudilová;1979;F;;Z 35 – 54;36;2;3;00:44:41
+1289;10 km;Hugo;Závada;2008;M;Magic of Gathering;junioři;37;3;34;00:44:42
+1282;10 km;Karel;Vyšata;1992;M;;M do 39;38;22;35;00:44:50
+1090;10 km;Jiří;Kacerovský;1980;M;;M 40 – 59;39;11;36;00:45:14
+1102;10 km;Jan;Kincl;1971;M;Vepřovky;M 40 – 59;40;12;37;00:45:15
+1162;10 km;Ludvíka;Neumannová;1985;F;Praha 6;Z 35 – 54;41;3;4;00:45:24
+1215;10 km;Juraj;Sečník;1990;M;Crossfit Strahov;M do 39;42;23;38;00:45:36
+1219;10 km;Petr;Simandl;1974;M;Les Bonvivants;M 40 – 59;43;13;39;00:45:49
+1358;10 km;Martin;Kuča;1984;M;;M 40 – 59;44;14;40;00:45:49
+1301;10 km;Sebastian;Fořt;2009;M;;junioři;45;4;41;00:46:12
+1109;10 km;Jaroslav;Kneblík;1981;M;Běhavci Praha;M 40 – 59;46;15;42;00:46:24
+1304;10 km;Barbora;Wilhelmová;1975;F;Berlín;Z 35 – 54;47;4;5;00:46:35
+1087;10 km;Vojtěch;Jirsa;1982;M;Praha 6;M 40 – 59;48;16;43;00:46:36
+1338;10 km;Martin;Prokop;1986;M;;M do 39;49;24;44;00:46:36
+1066;10 km;Martin;Hladík;1993;M;Kryry;M do 39;50;25;45;00:46:36
+1333;10 km;Štefan;Végh;1977;M;;M 40 – 59;51;17;46;00:46:45
+1167;10 km;Josef;Nykodym;1972;M;Team Tofu, Praha;M 40 – 59;52;18;47;00:46:52
+1116;10 km;Jakub;Kováč;2003;M;;M do 39;53;26;48;00:47:10
+1008;10 km;Henry;Barrett;1999;M;;M do 39;54;27;49;00:47:12
+1291;10 km;Jiří-Jakub;Zévl;1995;M;Milion Chvilek, Praha;M do 39;55;28;50;00:47:14
+1233;10 km;Jarka;Stenglová;1982;F;;Z 35 – 54;56;5;6;00:47:24
+1254;10 km;Michael;Tomáš;1988;M;;M do 39;57;29;51;00:47:24
+1070;10 km;Petr;HONZÁK;1977;M;Salming, Praha ;M 40 – 59;58;19;52;00:47:28
+1226;10 km;David;Slezák;1989;M;;M do 39;59;30;53;00:47:31
+1092;10 km;Ján;Kahún;1981;M;Praha;M 40 – 59;60;20;54;00:47:37
+1331;10 km;Zuzana;Milnerová;1972;F;;Z 35 – 54;61;6;7;00:47:44
+1239;10 km;Dobroslav;Šanda;1975;M;Chocerady;M 40 – 59;62;21;55;00:47:51
+1257;10 km;Ondřej;Tuček;2002;M;rychlá kopyta Praha;M do 39;63;31;56;00:48:00
+1311;10 km;Jan;Pelant;1976;M;;M 40 – 59;64;22;57;00:48:03
+1027;10 km;Jan;Buchlák;1993;M;;M do 39;65;32;58;00:48:08
+1303;10 km;Monika;Narovcová;1982;F;;Z 35 – 54;66;7;8;00:48:21
+1191;10 km;Lukáš;Podpěra;1995;M;Praha;M do 39;67;33;59;00:48:26
+1330;10 km;Jiří;Čedrle;1981;M;;M 40 – 59;68;23;60;00:48:30
+1187;10 km;Martin;Petráček;1993;M;;M do 39;69;34;61;00:48:34
+1028;10 km;Martin;Čech;1990;M;;M do 39;70;35;62;00:48:35
+1058;10 km;Jan;Havel;1967;M;Klub ROAD;M 40 – 59;71;24;63;00:48:55
+1159;10 km;Oliver ;Najman;1997;M;Praha;M do 39;72;36;64;00:49:00
+1277;10 km;Martin;Vopěnka;1963;M;;M 60+;73;1;65;00:49:00
+1205;10 km;Michael;Remeš;1996;M;Říčany;M do 39;74;37;66;00:49:03
+1252;10 km;Lukáš;Rim;1986;M;;M do 39;75;38;67;00:49:11
+1035;10 km;Dávid;Dopirák;1995;M;;M do 39;76;39;68;00:49:20
+1295;10 km;Kateřina;Prášilová;1981;F;;Z 35 – 54;77;8;9;00:49:30
+1126;10 km;Filip;Kubů;1982;M;Patria Finance Tým 8;M 40 – 59;78;25;69;00:49:31
+1354;10 km;Vladimír;Kriška;1987;M;;M do 39;79;40;70;00:49:35
+1128;10 km;Martin;Kucharik;1988;M;SK Kubiška;M do 39;80;41;71;00:49:45
+1367;10 km;Petr;Punčochář;1980;M;;M 40 – 59;81;26;72;00:49:45
+1077;10 km;Karel Daniel;Chabeau;2007;M;;junioři;82;5;73;00:49:51
+1031;10 km;Jana;Dejmalová;1990;F;Nadace Via - Darujme.cz;Z do 34;83;2;10;00:49:57
+1362;10 km;Petra;Müller;1983;F;Spořilov;Z 35 – 54;84;9;11;00:50:04
+1054;10 km;Jan;Hadaš;1984;M;;M 40 – 59;85;27;74;00:50:05
+1125;10 km;Jiri;Kubik;1977;M;Eyjafjallajökull;M 40 – 59;86;28;75;00:50:10
+1004;10 km;Andrea;Babinska;1992;F;;Z do 34;87;3;12;00:50:17
+1211;10 km;Simon;Rybář;2002;M;České Budějovice;M do 39;88;42;76;00:50:21
+1007;10 km;Immanuel;Bach ;1996;M;;M do 39;89;43;77;00:50:22
+1262;10 km;Jonáš;Vágner;2005;M;Gymnázium Paměti národa;M do 39;90;44;78;00:50:26
+1003;10 km;Václav;Audes;1979;M;Havel Partners;M 40 – 59;91;29;79;00:50:26
+1322;10 km;Jiří;Balák;1978;M;;M 40 – 59;92;30;80;00:50:33
+1086;10 km;Václav;Jirsa;1959;M;Volyně;M 60+;93;2;81;00:50:35
+1189;10 km;Barbora;Píšová;1981;F;;Z 35 – 54;94;10;13;00:50:38
+1050;10 km;Miroslav;Gabriel;1980;M;Patria;M 40 – 59;95;31;82;00:50:43
+1327;10 km;David;Cebula;1973;M;;M 40 – 59;96;32;83;00:50:44
+1339;10 km;Michal;Prokop;1990;M;;M do 39;97;45;84;00:50:44
+1201;10 km;Robert;Quagliato;1974;M;Beroun - Adelboden;M 40 – 59;98;33;85;00:50:54
+1276;10 km;Damián;Vondrášek;1991;M;;M do 39;99;46;86;00:51:03
+1034;10 km;Miroslav;Dolský ;1985;M;;M do 39;100;47;87;00:51:10
+1242;10 km;Veronika;Šindlerová;1980;F;Praha 13;Z 35 – 54;101;11;14;00:51:12
+1021;10 km;Tomáš;Brabec;1988;M;;M do 39;102;48;88;00:51:15
+1348;10 km;Jan;Kárný;1980;M;;M 40 – 59;103;34;89;00:51:15
+1158;10 km;Viktor;Nábělek;1980;M;STS Chvojkovice Brod;M 40 – 59;104;35;90;00:51:23
+1137;10 km;Zdeněk;Lichnovský;1988;M;Radio 1, Praha;M do 39;105;49;91;00:51:23
+1275;10 km;Zdeněk;Volf;1977;M;PATRIA;M 40 – 59;106;36;92;00:51:23
+1283;10 km;Ben;Walter;2003;M;Praha 10;M do 39;107;50;93;00:51:32
+1200;10 km;Marie;Puldová;1999;F;Litoměřice ;Z do 34;108;4;15;00:51:32
+1326;10 km;Veroniika;Moravová;1989;F;;Z 35 – 54;109;12;16;00:51:38
+1064;10 km;Jana;Hejnová;1983;F;;Z 35 – 54;110;13;17;00:51:40
+1175;10 km;ATHANASSIOS;PANTAZOPOULOS;1969;M;Praha;M 40 – 59;111;37;94;00:51:45
+1053;10 km;Tomáš;Grosman;1991;M;Seznam, Seznam, Praha;M do 39;112;51;95;00:51:46
+1040;10 km;Filip;Dvořák;1975;M;Buštěhrad;M 40 – 59;113;38;96;00:51:50
+1271;10 km;Michal;Vincenc;1978;M;;M 40 – 59;114;39;97;00:51:51
+1365;10 km;Radek;Dvořáček;1980;M;;M 40 – 59;115;40;98;00:51:54
+1274;10 km;Michal;Volák;1983;M;;M 40 – 59;116;41;99;00:51:59
+1220;10 km;Jan;Sklenář;2010;M;;junioři;117;6;100;00:52:06
+1328;10 km;Matěj;Kouba;2011;M;;junioři;118;7;101;00:52:06
+1117;10 km;Jakub;Král;1986;M;PORTA PARTA;M do 39;119;52;102;00:52:06
+1243;10 km;Václav;Šír;1985;M;Praha;M do 39;120;53;103;00:52:13
+1231;10 km;Miro;Specian;1975;M;;M 40 – 59;121;42;104;00:52:23
+1089;10 km;Rikard;Jozwiak;1982;M;Praha;M 40 – 59;122;43;105;00:52:29
+1360;10 km;Jan;Dedek;2005;M;;M do 39;123;54;106;00:52:35
+1163;10 km;JAKUB;NORMARK;1993;M;Letná;M do 39;124;55;107;00:52:37
+1124;10 km;Martin;Křížek;1989;M;;M do 39;125;56;108;00:52:46
+1363;10 km;Quoc Hung;Vu;1979;M;;M 40 – 59;126;44;109;00:52:49
+1115;10 km;Alina;Kotliarenko;1988;F;;Z 35 – 54;127;14;18;00:52:52
+1036;10 km;Zuzana;Durajová;1980;F;BT Odolena Voda;Z 35 – 54;128;15;19;00:52:52
+1302;10 km;Vít;Havlík;1983;M;;M 40 – 59;129;45;110;00:52:53
+1335;10 km;Jan;Kulovánek;1979;M;;M 40 – 59;130;46;111;00:52:59
+1255;10 km;Jana;Totušková;1988;F;Praha 10;Z 35 – 54;131;16;20;00:53:05
+1100;10 km;Filip;Kersch;1994;M;;M do 39;132;57;112;00:53:12
+1110;10 km;Jakub;Kocmánek;1985;M;Havel & Partners, Praha;M do 39;133;58;113;00:53:16
+1310;10 km;Tomáš;Warzecha;1988;M;;M do 39;134;59;114;00:53:20
+1281;10 km;Václav;Vrobel;1989;M;Ostrava;M do 39;135;60;115;00:53:20
+1223;10 km;Vojtěch ;Skřivánek ;1992;M;;M do 39;136;61;116;00:53:23
+1369;10 km;Jan;Trachta;1977;M;;M 40 – 59;137;47;117;00:53:32
+1146;10 km;Tereza;McCollumová;1975;F;TJ Sokol I. Smíchov;Z 35 – 54;138;17;21;00:53:38
+1244;10 km;Marek;Šlégl;1977;M;Liboc;M 40 – 59;139;48;118;00:53:46
+1006;10 km;Martin;Babinský;1974;M;Byxelkrok;M 40 – 59;140;49;119;00:53:55
+1101;10 km;Jakub ;Kerš;1995;M;;M do 39;141;62;120;00:54:03
+1153;10 km;Hana;Mojžišová;1993;F;;Z do 34;142;5;22;00:54:03
+1045;10 km;Petr;Exnar;1974;M;Bosoboty leguano;M 40 – 59;143;50;121;00:54:08
+1296;10 km;Tomáš;Pekara;1984;M;;M 40 – 59;144;51;122;00:54:08
+1297;10 km;Petr;Fašianok;1979;M;Post Bellum;M 40 – 59;145;52;123;00:54:10
+1083;10 km;Josef;Jeřicha;1974;M;ČSOB Finanční trhy;M 40 – 59;146;53;124;00:54:19
+1156;10 km;Martin;Mráček;1978;M;ČSOB Finanční trhy;M 40 – 59;147;54;125;00:54:20
+1284;10 km;Tobiáš;Walter;2007;M;Praha 10;junioři;148;8;126;00:54:20
+1321;10 km;Iveta;Kvasničková;1978;F;;Z 35 – 54;149;18;23;00:54:23
+1151;10 km;František;Modlinger;2008;M;;junioři;150;9;127;00:54:27
+1147;10 km;Přemysl;Mikulenka;2005;M;Skoumal;M do 39;151;63;128;00:54:28
+1098;10 km;Tomáš;Karas;1976;M;Praha 3;M 40 – 59;152;55;129;00:54:35
+1307;10 km;Anděla;Bonková;2011;F;;juniorky;153;1;24;00:54:36
+1350;10 km;Ondřej;Smolík;1979;M;;M 40 – 59;154;56;130;00:54:39
+1294;10 km;Anna;Zítová;1998;F;;Z do 34;155;6;25;00:54:40
+1195;10 km;Viktor;Portel;1989;M;Fanklub Terezy Jakešové;M do 39;156;64;131;00:54:47
+1018;10 km;Markéta;Bidrmanová;1981;F;Praha;Z 35 – 54;157;19;26;00:54:50
+1183;10 km;Eva;Pechová Vejskalová;1983;F;Praha;Z 35 – 54;158;20;27;00:54:52
+1131;10 km;Sofie;Laugesen;2008;F;Praha;juniorky;159;2;28;00:54:52
+1320;10 km;Lenka;Jantačová;1983;F;;Z 35 – 54;160;21;29;00:54:54
+1096;10 km;Tomáš;Kalvach;1979;M;;M 40 – 59;161;57;132;00:54:54
+1224;10 km;Jan;Slánský;1997;M;;M do 39;162;65;133;00:54:55
+1135;10 km;David;Lenhart;1979;M;Brno;M 40 – 59;163;58;134;00:55:00
+1023;10 km;Martin;Brož;1969;M;Quantcom;M 40 – 59;164;59;135;00:55:00
+1222;10 km;Pavel;Skřeček;1988;M;Kravaře;M do 39;165;66;136;00:55:02
+1139;10 km;Pavel;Maďarčík;1998;M;;M do 39;166;67;137;00:55:03
+1300;10 km;Sára;Fišerová;2006;F;;Z do 34;167;7;30;00:55:07
+1171;10 km;Andrea;Orságová ;1987;F;HoWaDa;Z 35 – 54;168;22;31;00:55:12
+1237;10 km;Martin;Svoboda;1964;M;;M 60+;169;3;138;00:55:13
+1225;10 km;Adam ;Slavičínský;2009;M;;junioři;170;10;139;00:55:15
+1123;10 km;Veronika;Křesťanová;1969;F;;Z 55+;171;1;32;00:55:30
+1196;10 km;Pavel;Pražák;1986;M;Praha;M do 39;172;68;140;00:55:30
+1241;10 km;Petr;Šebek;1973;M;Únětice;M 40 – 59;173;60;141;00:55:38
+1046;10 km;Michaela;Fárová;1976;F;Praha;Z 35 – 54;174;23;33;00:55:46
+1194;10 km;Martin;Pompl;1993;M;Praha;M do 39;175;69;142;00:55:48
+1314;10 km;Dana;Blovská;1970;F;;Z 35 – 54;176;24;34;00:55:49
+1012;10 km;Ladislav;Bayer;1982;M;Libovice;M 40 – 59;177;61;143;00:55:49
+1062;10 km;Adéla;Havlová;1976;F;Havel Partners;Z 35 – 54;178;25;35;00:55:51
+1258;10 km;Ondřej;Tuček;1975;M;rychlá kopyta Praha;M 40 – 59;179;62;144;00:55:52
+1227;10 km;Stanislav;Šmida;1989;M;;M do 39;180;70;145;00:55:53
+1329;10 km;Michaela;Muchová;1993;F;;Z do 34;181;8;36;00:55:56
+1024;10 km;Anežka;Brožová;2007;F;Quantcom;juniorky;182;3;37;00:56:02
+1072;10 km;Michal;Hozák;1989;M;;M do 39;183;71;146;00:56:03
+1051;10 km;Adéla;Gabrielová;1996;F;;Z do 34;184;9;38;00:56:11
+1249;10 km;Mária ;Šubjaková ;1990;F;;Z do 34;185;10;39;00:56:12
+1316;10 km;Aneta;Dostálová;1984;F;;Z 35 – 54;186;26;40;00:56:13
+1234;10 km;Anna;Stern;1991;F;;Z do 34;187;11;41;00:56:15
+1186;10 km;Milena;Pelova;1972;F;AC Tepo Kladno;Z 35 – 54;188;27;42;00:56:17
+1085;10 km;Honza;Jinek;1986;M;Praha;M do 39;189;72;147;00:56:18
+1038;10 km;Josefie;Dvorská;1994;F;;Z do 34;190;12;43;00:56:24
+1178;10 km;Martin;Patočka;1973;M;Praha;M 40 – 59;191;63;148;00:56:25
+1218;10 km;Adam;Scheinherr;1987;M;PRAHA SOBĚ;M do 39;192;73;149;00:56:25
+1060;10 km;Petr;Havelka;1963;M;Říčany;M 60+;193;4;150;00:56:33
+1157;10 km;igor;muller;1978;M;zochary;M 40 – 59;194;64;151;00:56:35
+1061;10 km;Václav;Havlíček;1979;M;;M 40 – 59;195;65;152;00:56:35
+1049;10 km;Blanka;Francová;1975;F;Les Bonvivants;Z 35 – 54;196;28;44;00:56:38
+1188;10 km;Martin;Petrtýl;1977;M;The Best One :-P;M 40 – 59;197;66;153;00:56:44
+1144;10 km;Jan;Matoušek;1984;M;;M 40 – 59;198;67;154;00:56:46
+1313;10 km;Lukáš;Hošek;1986;M;;M do 39;199;74;155;00:56:47
+1130;10 km;Flemming;Laugesen;1969;M;Praha;M 40 – 59;200;68;156;00:56:48
+1185;10 km;Ondřej;Pelinka;1979;M;Praha 6;M 40 – 59;201;69;157;00:56:50
+1210;10 km;Filip;Ryant;1983;M;;M 40 – 59;202;70;158;00:56:53
+1095;10 km;Iveta;Kalova;1989;F;;Z 35 – 54;203;29;45;00:56:58
+1094;10 km;Viktor;Kalivoda;1992;M;;M do 39;204;75;159;00:57:01
+1349;10 km;Ondřej;Veis;1975;M;;M 40 – 59;205;71;160;00:57:02
+1298;10 km;Griffin;Trent;1990;M;;M do 39;206;76;161;00:57:22
+1240;10 km;Dominik;Šavrda;1990;M;Skoumal, Praha;M do 39;207;77;162;00:57:26
+1108;10 km;Jana;Kmuníčková;1984;F;Rozdělovští sršni;Z 35 – 54;208;30;46;00:57:33
+1305;10 km;Jana;Ponocná;1980;F;;Z 35 – 54;209;31;47;00:57:38
+1037;10 km;Natálie;Ďurinská;2002;F;;Z do 34;210;13;48;00:57:46
+1308;10 km;Jiří;Bonk;1974;M;;M 40 – 59;211;72;163;00:57:51
+1236;10 km;Ingrida;Sujová;1991;F;Love them running club;Z do 34;212;14;49;00:57:53
+1065;10 km;adam;hencze;1990;M;;M do 39;213;78;164;00:57:55
+1093;10 km;Klára;Kalábová;2010;F;Praha;juniorky;214;4;50;00:57:57
+1265;10 km;Vojtěch;Vašků;2000;M;Študlov;M do 39;215;79;165;00:58:00
+1179;10 km;Vladimir;Patsegon;2000;M;;M do 39;216;80;166;00:58:00
+1315;10 km;Magdalena;Ulmanová;2006;F;;Z do 34;217;15;51;00:58:01
+1148;10 km;Anna;Mindlová;1997;F;Praha;Z do 34;218;16;52;00:58:15
+1020;10 km;Kateřina;Borková;1996;F;WE Are ALZA;Z do 34;219;17;53;00:58:23
+1082;10 km;Ivan;Jelínek;1989;M;Moneta Money Bank;M do 39;220;81;167;00:58:24
+1217;10 km;Oleg;Sergejev;1995;M;Praha;M do 39;221;82;168;00:58:36
+1353;10 km;Lucie;Lučanská;1990;F;;Z do 34;222;18;54;00:58:36
+1129;10 km;Ondřej;Kunc;1996;M;;M do 39;223;83;169;00:58:37
+1068;10 km;Jitka;Hofmeisterová;1971;F;;Z 35 – 54;224;32;55;00:58:39
+1356;10 km;Dorothea;Hofmeisterová;2006;F;;Z do 34;225;19;56;00:58:39
+1312;10 km;Štěpán;Krása;1969;M;;M 40 – 59;226;73;170;00:58:45
+1230;10 km;Ondřej;Spálenka;1975;M;Pražská kavárna;M 40 – 59;227;74;171;00:58:52
+1216;10 km;Edita;Semerádová;2005;F;;Z do 34;228;20;57;00:58:55
+1114;10 km;Michaela;Kosaková;1991;F;Praha 6;Z do 34;229;21;58;00:58:56
+1056;10 km;Markéta;Hanulíková;1994;F;MY CLINIC;Z do 34;230;22;59;00:58:56
+1001;10 km;Háta;Adamovská;2007;F;;juniorky;231;5;60;00:58:57
+1268;10 km;Monika;Vernerová;1993;F;Praha;Z do 34;232;23;61;00:59:00
+1286;10 km;Marta;Werenycká;1976;F;Praha;Z 35 – 54;233;33;62;00:59:00
+1256;10 km;Iva;Trnková;1989;F;Digiteq automotive s.r.o.;Z 35 – 54;234;34;63;00:59:01
+1145;10 km;Karel;Maule;1994;M;Rozběháme Česko;M do 39;235;84;172;00:59:04
+1361;10 km;Tereza;Leissová;1987;F;;Z 35 – 54;236;35;64;00:59:05
+1285;10 km;Denisa;Walterová;1973;F;Praha 10;Z 35 – 54;237;36;65;00:59:08
+1272;10 km;Larysa;Vlach;1985;F;;Z 35 – 54;238;37;66;00:59:15
+1138;10 km;Lenka ;Lynch;1979;F;;Z 35 – 54;239;38;67;00:59:16
+1273;10 km;Martin;Vlach;1984;M;;M 40 – 59;240;75;173;00:59:16
+1238;10 km;Petra;Šabatová;1988;F;;Z 35 – 54;241;39;68;00:59:18
+1081;10 km;Tibor;Jelenek;1979;M;www.prazskezkratky.cz;M 40 – 59;242;76;174;00:59:20
+1181;10 km;Denisa;Pavlovičová;1997;F;;Z do 34;243;24;69;00:59:22
+1069;10 km;Radovan ;Holý ;1983;M;Kolín ;M 40 – 59;244;77;175;00:59:23
+1161;10 km;Hana;Nenutilová;1980;F;Praha;Z 35 – 54;245;40;70;00:59:36
+1347;10 km;Vojtěch;Sedláček;1979;M;;M 40 – 59;246;78;176;00:59:41
+1078;10 km;Aleš;Chrobák;1959;M;;M 60+;247;5;177;00:59:49
+1030;10 km;Kristýna ;Čillíková;1979;F;Zdice ;Z 35 – 54;248;41;71;00:59:54
+1306;10 km;Libor;Polanský;1974;M;;M 40 – 59;249;79;178;00:59:56
+1022;10 km;Sarah;Brooks;1987;F;Sunday Runday;Z 35 – 54;250;42;72;01:00:04
+1048;10 km;Dana;FORMANKOVA;1972;F;Vrutky;Z 35 – 54;251;43;73;01:00:05
+1235;10 km;Martin;Strakoš;1982;M;Příbor;M 40 – 59;252;80;179;01:00:07
+1164;10 km;Klára;Nováková ;1998;F;Praha;Z do 34;253;25;74;01:00:13
+1192;10 km;Zuzana;Pohlová;1973;F;Dámská jízda Tigi-shu;Z 35 – 54;254;44;75;01:00:34
+1193;10 km;Sandra;Polovková;1990;F;Post Bellum Slovensko;Z do 34;255;26;76;01:00:34
+1355;10 km;Martin;Cibulka;1979;M;;M 40 – 59;256;81;180;01:01:05
+1345;10 km;Lukáš;Loula;1981;M;;M 40 – 59;257;82;181;01:01:06
+1344;10 km;Iva;Skřivánková;1982;F;;Z 35 – 54;258;45;77;01:01:10
+1052;10 km;Jiří;Gono;1970;M;Ruggell;M 40 – 59;259;83;182;01:01:18
+1209;10 km;David;Růžek;1984;M;Třebovle;M 40 – 59;260;84;183;01:01:21
+1152;10 km;Roman;Modlinger;1976;M;;M 40 – 59;261;85;184;01:01:25
+1075;10 km;Matej;Hrinčár;1984;M;;M 40 – 59;262;86;185;01:01:32
+1341;10 km;Josef;Marek;1990;M;;M do 39;263;85;186;01:01:32
+1132;10 km;Zuzana;Lednická;1974;F;Amos Praha;Z 35 – 54;264;46;78;01:01:43
+1177;10 km;Klára;Papoušková Hulswitová;1974;F;;Z 35 – 54;265;47;79;01:01:45
+1337;10 km;Jaroslav;Cerha;1978;M;;M 40 – 59;266;87;187;01:01:53
+1359;10 km;Kateřina;Dedková;2007;F;;juniorky;267;6;80;01:02:11
+1118;10 km;Aneta;Krausová;1993;F;;Z do 34;268;27;81;01:02:20
+1267;10 km;Jana;Vecánová;1972;F;Praha;Z 35 – 54;269;48;82;01:02:21
+1259;10 km;Helena;Tučková;1971;F;rychlá kopyta Praha;Z 35 – 54;270;49;83;01:02:25
+1293;10 km;Šárka;Zoulová;1995;F;;Z do 34;271;28;84;01:02:30
+1207;10 km;Petra;Režná;1976;F;;Z 35 – 54;272;50;85;01:02:42
+1009;10 km;Radek;Bartoníček;1969;M;Ostrožská Lhota;M 40 – 59;273;88;188;01:02:43
+1080;10 km;Ondřej;Janeček;1986;M;Sunday Runday;M do 39;274;86;189;01:02:44
+1141;10 km;David;Marek;1972;M;Praha;M 40 – 59;275;89;190;01:02:56
+1264;10 km;Karolína;Vašků;1996;F;;Z do 34;276;29;86;01:02:57
+1325;10 km;Siobhan;Campbell;1991;F;;Z do 34;277;30;87;01:03:03
+1319;10 km;Tereza;Dejmalová;1988;F;;Z 35 – 54;278;51;88;01:03:13
+1299;10 km;Natalija;Lekh;1994;F;;Z do 34;279;31;89;01:03:19
+1143;10 km;Beáta;Máthéová;1991;F;Praha;Z do 34;280;32;90;01:03:19
+1044;10 km;Adam;Englund;1991;M;;M do 39;281;87;191;01:03:19
+1203;10 km;Eva;Recmanová;1966;F;Hřebeč;Z 55+;282;2;91;01:03:32
+1134;10 km;Veronika;Lengálová;1993;F;;Z do 34;283;33;92;01:03:36
+1133;10 km;Markéta;Lengálová;1989;F;;Z 35 – 54;284;52;93;01:03:36
+1063;10 km;Elizabeth;Haywardová;2000;F;;Z do 34;285;34;94;01:03:43
+1172;10 km;Hana;Osickova;1981;F;;Z 35 – 54;286;53;95;01:03:44
+1278;10 km;Petr;Voříšek;1995;M;;M do 39;287;88;192;01:03:48
+1103;10 km;Jan;Klement;1980;M;;M 40 – 59;288;90;193;01:04:03
+1352;10 km;Iveta;Horňáčková;1992;M;;M do 39;289;89;194;01:04:11
+1041;10 km;Tabea;Eicher;1996;F;;Z do 34;290;35;96;01:04:12
+1002;10 km;Petr;Aster;1991;M;Cirkus Humberto;M do 39;291;90;195;01:04:17
+1204;10 km;Alexandra;Rejhová;1985;F;;Z 35 – 54;292;54;97;01:04:28
+1119;10 km;Jakub;Krejčí;1996;M;;M do 39;293;91;196;01:04:50
+1166;10 km;Martin;Novotny;1990;M;Patria Tým 8;M do 39;294;92;197;01:05:05
+1160;10 km;Nina Nhung;Nárovcová;1992;F;Patria Finance, Tým 12, Praha;Z do 34;295;36;98;01:05:06
+1232;10 km;Dominika;Stará;1987;F;Patria Finance;Z 35 – 54;296;55;99;01:05:06
+1010;10 km;Hana;Bartoňková;1984;F;;Z 35 – 54;297;56;100;01:05:07
+1011;10 km;Katarína;Baxová;1989;F;;Z 35 – 54;298;57;101;01:05:09
+1016;10 km;Monika;Bendíková;1995;F;;Z do 34;299;37;102;01:05:21
+1346;10 km;Bohumil;Cendelín;1972;M;;M 40 – 59;300;91;198;01:05:26
+1248;10 km;Alena;Študlarová;1994;F;Křemže;Z do 34;301;38;103;01:05:27
+1206;10 km;Julia ;Reuter;1995;F;;Z do 34;302;39;104;01:05:50
+1228;10 km;Taťána;Soharová;1965;F;Štěrboholy;Z 55+;303;3;105;01:06:00
+1032;10 km;Flavia;Dittrich;1999;F;;Z do 34;304;40;106;01:06:12
+1014;10 km;Václav;Bejtler;1973;M;;M 40 – 59;305;92;199;01:06:29
+1019;10 km;Jana;Bollen;1992;F;;Z do 34;306;41;107;01:06:31
+1246;10 km;Barbora;Špinavá;2006;F;;Z do 34;307;42;108;01:06:36
+1279;10 km;Lucie;Vrbová;1982;F;;Z 35 – 54;308;58;109;01:06:37
+1099;10 km;Filip;Kersch;1965;M;Kutná Hora;M 40 – 59;309;93;200;01:06:47
+1317;10 km;Martin;Průcha;1994;M;;M do 39;310;93;201;01:07:32
+1318;10 km;Anahí;Villalba-Pradas;1990;F;;Z do 34;311;43;110;01:07:32
+1079;10 km;Alžběta;Chrobáková;1995;F;Praha;Z do 34;312;44;111;01:07:46
+1340;10 km;Lenka;Pavlíková;1977;F;;Z 35 – 54;313;59;112;01:08:09
+1055;10 km;Zuzana;Hadravová;1965;F;;Z 55+;314;4;113;01:08:33
+1245;10 km;Alena;Šlingerová;1986;F;Praha;Z 35 – 54;315;60;114;01:09:14
+1111;10 km;Tereza;Komínková;1996;F;;Z do 34;316;45;115;01:11:01
+1029;10 km;Pavel;Čechák;1984;M;Praha;M 40 – 59;317;94;202;01:11:50
+1270;10 km;Lada;Vilíšová;1984;F;;Z 35 – 54;318;61;116;01:13:35
+1150;10 km;Anna;Mitchell;1991;F;;Z do 34;319;46;117;01:15:55
+1176;10 km;Hedvika;Papayová;2003;F;Klatovy;Z do 34;320;47;118;01:16:55
+1190;10 km;David;Ploček;1995;M;DEMI;M do 39;321;94;203;01:16:56
+1229;10 km;Marie;Sochová;1992;F;;Z do 34;322;48;119;01:17:45
+1184;10 km;Richard;Pekarek;1965;M;DJM Jihlava;M 40 – 59;323;95;204;01:18:57
+1113;10 km;Michal;KOPTA;1958;M;Klub otužování a zdravého saunování Lysolaje;M 60+;324;6;205;01:22:17
+1266;10 km;Ondrej;Vavra;1977;M;Patria;M 40 – 59;325;96;206;01:22:19
+1368;10 km;Tomáš;Kostkan;1965;M;;M 40 – 59;326;97;207;01:24:46
+1221;10 km;Magdaléna ;Sklenářová;1976;F;;Z 35 – 54;327;62;120;01:30:41
+1073;10 km;Michaela;Hozáková;1963;F;;Z 55+;328;5;121;01:30:43
+1013;10 km;Iveta;Bayerová;1988;F;Libovice;Z 35 – 54;329;63;122;01:49:38
+5416;10 km;Leontýna;Sýkorová;2005;F;rychlá kopyta Praha;Z do 34;0;0;0;00:00:00
+1199;10 km;Eva ;Prokešová;2006;F;Gymnázium Paměti národa;Z do 34;0;0;0;00:00:00
+1149;10 km;Tomáš;Mitana;1990;M;;M do 39;0;0;0;00:00:00
+1261;10 km;Ondřej;Ulmann;1993;M;Liberec;M do 39;0;0;0;00:00:00
+1169;10 km;Michaela;Orlová;1988;F;TA ČR, správná strana chodby;Z 35 – 54;0;0;0;DNS
+1253;10 km;test;test;1988;F;;Z 35 – 54;0;0;0;DNS
+1288;10 km;Johana;Wyss;1986;F;;Z 35 – 54;0;0;0;DNS
+1174;10 km;Valeria;Panasko;1992;F;Praha;Z do 34;0;0;0;DNS
+1074;10 km;Michaela;Hozáková;1963;F;;Z 55+;0;0;0;DNS
+1091;10 km;Iveta;Kaczarová;1990;F;Praha;Z do 34;0;0;0;DNS
+1127;10 km;Anna;Kudrnová;2007;F;;juniorky;0;0;0;DNS
+1088;10 km;Petra;Jorsová;1978;F;PrIMA Advenťačky;Z 35 – 54;0;0;0;DNS
+1097;10 km;Aneta;Kapuciánová;1986;F;Praha ;Z 35 – 54;0;0;0;DNS
+1042;10 km;Amálie ;Elbel;2005;F;Gymnázium Paměti národa;Z do 34;0;0;0;DNS
+1155;10 km;Kateřina;Morbitzerová;1995;F;Praha;Z do 34;0;0;0;DNS
+1025;10 km;Jan;Bubanec;1999;M;;M do 39;0;0;0;DNS
+1047;10 km;Milan;Flanderka;1987;M;;M do 39;0;0;0;DNS
+1104;10 km;Jan;Klíma;1990;M;;M do 39;0;0;0;DNS
+1112;10 km;Štěpán;Kopřiva;1990;M;;M do 39;0;0;0;DNS
+1059;10 km;Petr;Havelka;1963;M;Říčany;M 60+;0;0;0;DNS
+1015;10 km;Jiří;Bělohoubek;1991;M;Praha;M do 39;0;0;0;DNS
+1182;10 km;Jan;Pečený;1953;M;Tlustovousy;M 60+;0;0;0;DNS
+1017;10 km;Jakub;Beran;1995;M;;M do 39;0;0;0;DNS
+1067;10 km;Ondřej;Hlaváč;1998;M;;M do 39;0;0;0;DNS
+1292;10 km;Matěj;Zíka;2003;M;Stochov;M do 39;0;0;0;DNS
+1287;10 km;Craig;Wyss;1986;M;;M do 39;0;0;0;DNS
+1280;10 km;Jan;Vrobel;1987;M;Rorýs;M do 39;0;0;0;DNS
+1260;10 km;René;Uhrin;1991;M;Moneta, Moneta, Praha;M do 39;0;0;0;DNS
+1026;10 km;Pavel ;Buček;1991;M;Praha 1;M do 39;0;0;0;DNS
+1122;10 km;Štěpán ;Kroupa;2008;M;Gymnázium Paměti národa;junioři;0;0;0;DNS
+1212;10 km;Erik;Sabol;2004;M;ToBi Team;M do 39;0;0;0;DNS
+1197;10 km;Tomáš;Pribiš;1974;M;Patria Finance 7;M 40 – 59;0;0;0;DNS
+1202;10 km;Josef;Rabara;1980;M;Praha;M 40 – 59;0;0;0;DNS
+1290;10 km;Ondřej;Zeman;1981;M;Patria;M 40 – 59;0;0;0;DNS
+1173;10 km;Konstantin;Panasko;1988;M;Praha;M do 39;0;0;0;DNS
+1121;10 km;Jakub;Kroupa;2003;M;Post Bellum;M do 39;0;0;0;DNS
