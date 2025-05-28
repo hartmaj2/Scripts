@@ -1,5 +1,6 @@
 # We will scrape the data from SIS and then analyze it.
 # The data can be got using inspector and saving the index.php file
+# Terminy zkousek -> click on details icon on top left corner of the exam box in the calendar
 
 from bs4 import BeautifulSoup, Tag
 
